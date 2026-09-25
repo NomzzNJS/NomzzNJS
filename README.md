@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, I'm Namanjot Singh, an SWE Intern @Innodeed Systems Pvt. Ltd.
+# I make asynchronous backends using celery and redis and work on Deep learning & Machine learning models.
+Let's connect on Linkedin - www.linkedin.com/in/namanjot-singh-229231291
 
 <!--
 **NomzzNJS/NomzzNJS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
